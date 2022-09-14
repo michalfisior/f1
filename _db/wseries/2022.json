@@ -90,11 +90,10 @@
 			"round": 7,
 			"slug": "singapore",
 			"localeKey": "singapore",
-			"tbc": true,
 			"sessions": {
-				"practice1": "2022-09-30T11:00:00Z",
-				"qualifying": "2022-09-30T14:30:00Z",
-				"race": "2022-10-01T14:30:00Z"
+				"practice1": "2022-09-30T11:45:00Z",
+				"qualifying": "2022-10-01T08:45:00Z",
+				"race": "2022-10-02T08:45:00Z"
 			}
 		},
 		{
